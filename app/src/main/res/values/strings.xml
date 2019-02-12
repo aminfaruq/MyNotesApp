@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyNotesApp</string>
+    <string name="date">date</string>
+    <string name="title">Title</string>
+    <string name="description">description</string>
+    <string name="delete">delete</string>
+    <string name="submit">submit</string>
+</resources>
