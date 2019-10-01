@@ -4,6 +4,7 @@ import android.provider.BaseColumns;
 
 public class DatabaseContract {
 
+    //database for life
     static String TABLE_NOTE = "note";
 
     static final class NoteColumns implements BaseColumns{
